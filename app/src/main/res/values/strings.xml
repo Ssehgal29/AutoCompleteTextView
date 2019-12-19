@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AutocmpltTextV</string>
+
+    <string-array name="data">
+        <item>kshitij </item>
+        <item>sahil</item>
+        <item>Abhishek</item>
+        <item>lakshay</item>
+        <item>diwanshu</item>
+        <item>divyansh</item>
+        <item>gagan</item>
+
+    </string-array>
+</resources>
